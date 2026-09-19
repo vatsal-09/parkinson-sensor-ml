@@ -1,0 +1,9 @@
+Validation,Normalization,Model,Mean Accuracy (%),Std (%)
+Holdout,Z-score,SVM,86.313869,
+Holdout,Linear (Min-Max),SVM,85.40146,
+5-Fold Cross-Validation,Z-score,SVM,85.814924,9.328945
+5-Fold Cross-Validation,Linear (Min-Max),SVM,84.235815,6.496032
+Stratified 5-Fold,Z-score,SVM,89.148676,5.139748
+Stratified 5-Fold,Linear (Min-Max),SVM,89.884838,5.214344
+Time-Series Split,Z-score,SVM,85.6958303633653,19.179494196462517
+Time-Series Split,Linear (Min-Max),SVM,84.71866998156844,18.304445878617084

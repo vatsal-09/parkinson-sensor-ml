@@ -1,0 +1,7 @@
+Category,Validation,Normalization,Model,Accuracy (%),FAR (%),FRR (%)
+Highest Accuracy,Stratified 5-Fold,Linear (Min-Max),SVM,89.45,2.73,19.34
+Lowest FAR,Stratified 5-Fold,Linear (Min-Max),SVM,89.45,2.73,19.34
+Lowest FRR,Stratified 5-Fold,Linear (Min-Max),SVM,89.45,2.73,19.34
+Lowest Accuracy,5-Fold Cross-Validation,Linear (Min-Max),SVM,84.76,4.15,24.98
+Highest FAR,5-Fold Cross-Validation,Linear (Min-Max),SVM,84.76,4.15,24.98
+Highest FRR,5-Fold Cross-Validation,Linear (Min-Max),SVM,84.76,4.15,24.98

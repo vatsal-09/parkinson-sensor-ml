@@ -1,0 +1,3 @@
+Validation,Normalization,Model,Accuracy (%),FAR (%),FRR (%)
+Stratified 5-Fold,Z-score,SVM,88.79958063952472,2.9725279404424283,20.52206393905869
+Stratified 5-Fold,Linear (Min-Max),SVM,89.446094705574,2.7298776814348344,19.336495518727318

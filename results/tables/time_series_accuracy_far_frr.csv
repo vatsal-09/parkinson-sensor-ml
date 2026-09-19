@@ -1,0 +1,3 @@
+Validation,Normalization,Model,Accuracy (%),FAR (%),FRR (%)
+Time-Series Split,Z-score,SVM,86.8409090909091,3.1739927489687028,24.77311580929132
+Time-Series Split,Linear (Min-Max),SVM,85.97727272727272,3.78132554032192,24.144107170465062

@@ -1,0 +1,5 @@
+Model,Input,Validation,Accuracy (%),FAR (%),FRR (%)
+Random Forest,90 handcrafted features,Holdout,84.00702987697716,,
+SVM,90 handcrafted features + Z-score,Holdout,86.20386643233743,,
+1D CNN,Raw 300x9 windows + Z-score,Holdout,76.6256590509666,,
+RF + SVM + CNN Ensemble,Majority voting,Holdout,84.79789103690686,3.7984391804395945,25.031682943447652
