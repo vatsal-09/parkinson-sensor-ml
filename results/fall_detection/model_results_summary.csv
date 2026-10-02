@@ -1,0 +1,5 @@
+model,evaluation,accuracy,fall_recall
+Random Forest,Validation,0.9955555555555555,1.0
+Random Forest,Balanced Test,0.9977777777777778,1.0
+SVM,Validation,0.9933333333333333,1.0
+SVM,Balanced Test,0.9977777777777778,1.0

@@ -1,0 +1,21 @@
+{
+    "dataset": "SisFall",
+    "sampling_rate_hz": 200,
+    "window_seconds": 2,
+    "window_samples": 400,
+    "overlap": 0.5,
+    "channels": [
+        "Ax",
+        "Ay",
+        "Az",
+        "Gx",
+        "Gy",
+        "Gz"
+    ],
+    "feature_count": 64,
+    "initial_acc_threshold_g": 4.039778324640647,
+    "initial_gyro_threshold_dps": 302.08470183761756,
+    "persistence_windows": 2,
+    "combined_score_threshold": 0.8500000000000001,
+    "note": "Thresholds are preliminary SisFall-derived references and are not yet calibrated for the ICM-20948 hardware."
+}
